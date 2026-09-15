@@ -41,3 +41,44 @@ I compared:
 - Engagement rate (ER)
 
 I kept a high-performing educational carousel out of this comparison because it represents a different content format and hypothesis that I want to analyse separately.
+
+## Results
+
+The event-day posts showed a clear performance difference compared with the non-event sample.
+
+| Metric | Event-day posts | Non-event posts |
+|---|---:|---:|
+| Average impressions | 1,631 | 604 |
+| Median impressions | 1,345 | 492 |
+| Average CTR | 16.60% | 1.79% |
+| Median CTR | 19.19% | 1.63% |
+| Average engagement rate | 18.94% | 4.12% |
+| Median engagement rate | 21.38% | 4.47% |
+
+Across the sample, event-day posts generated roughly **2.7× more impressions** and **4.6× higher average engagement rate** than the comparison content.
+
+The difference in click behaviour was even larger, with average CTR increasing from 1.79% across the non-event sample to 16.60% for event-day content.
+
+### An interesting outlier: announcing vs. being there
+
+One event provided a useful comparison between pre-event and event-day content.
+
+The pre-event announcement generated:
+
+- 443 impressions
+- 2.03% CTR
+- 5.19% engagement rate
+
+The event-day post for the same event generated:
+
+- 1,261 impressions
+- 23.47% CTR
+- 25.69% engagement rate
+
+This suggests that simply posting about attending an event may not be enough. Content created while the event is happening - featuring the people, conversations and activity around it - appears to give audiences more reason to engage.
+
+### Important caveat
+
+This was an observational analysis rather than a controlled A/B test. The sample of event-day posts was small, and factors such as tagging, subject matter, creative, timing and individual networks could all have contributed to the performance difference.
+
+The results therefore show a strong pattern worth testing further, rather than proving that event-day content itself caused the increase.
