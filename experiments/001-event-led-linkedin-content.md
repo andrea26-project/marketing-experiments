@@ -98,3 +98,17 @@ A few things stood out:
 - **People give B2B content something branded creative often can't.** Real event photography showed the people behind the company and made the content feel current and less manufactured.
 
 - **The event itself isn't necessarily the reason for the result.** The stronger performance could come from a combination of immediacy, people, tagging, partnerships and subject matter. The next step is to isolate more of those variables rather than assuming "event = high engagement."
+
+## What I'd test next
+
+The results give me enough confidence to keep testing event-led content, but not enough to know which individual factors are responsible for the uplift.
+
+The next experiments I'd run are:
+
+- **Real photography vs. designed creative:** Compare event posts featuring people and real environments against branded event graphics.
+- **Pre-event vs. live-event content:** Test whether immediacy consistently makes a difference, rather than relying on the result from one event.
+- **Tagged vs. untagged content:** Compare similar posts to better understand how much relevant partner, speaker and team tagging contributes to distribution.
+- **Brand-led vs. partner-led distribution:** Compare original brand posts, partner reposts and genuinely co-created content.
+- **Post-event content:** Test whether useful takeaways, insights or recaps can extend the engagement beyond the event itself.
+
+The goal isn't simply to produce more event content. It's to identify which elements make it work and apply those principles to content outside of events too.
