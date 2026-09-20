@@ -82,3 +82,19 @@ This suggests that simply posting about attending an event may not be enough. Co
 This was an observational analysis rather than a controlled A/B test. The sample of event-day posts was small, and factors such as tagging, subject matter, creative, timing and individual networks could all have contributed to the performance difference.
 
 The results therefore show a strong pattern worth testing further, rather than proving that event-day content itself caused the increase.
+
+## What I learned
+
+The strongest takeaway wasn't simply that "event content performs better." It was that **being part of the event created better content than announcing the event.**
+
+A few things stood out:
+
+- **Show, don't announce.** The pre-event announcement performed similarly to typical organic content, while the post published from the same event on the day performed significantly better. The audience seemed more interested in seeing what was actually happening than being told we would be there.
+
+- **Events create natural distribution networks.** Speakers, partners, team members and other companies involved in an event give the content multiple relevant networks to travel through. This makes tagging useful when it reflects genuine involvement rather than being added purely for reach.
+
+- **Industry association can be part of the content itself.** Showing the brand alongside complementary partners and industry voices helps communicate where the company sits within its wider ecosystem without needing to explicitly say it.
+
+- **People give B2B content something branded creative often can't.** Real event photography showed the people behind the company and made the content feel current and less manufactured.
+
+- **The event itself isn't necessarily the reason for the result.** The stronger performance could come from a combination of immediacy, people, tagging, partnerships and subject matter. The next step is to isolate more of those variables rather than assuming "event = high engagement."
