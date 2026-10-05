@@ -75,3 +75,35 @@ Topic relevance, timing, specificity, audience fit and the usefulness of the inf
 This is a small observational sample rather than a controlled test. Differences in topic, timing, creative, copy and audience distribution mean the results cannot isolate the carousel format as the cause of higher engagement.
 
 The pattern is strong enough to justify further testing, but not to conclude that the format alone produced the uplift.
+
+## What I learned
+
+My initial assumption was that actionable carousels performed well because the format encourages people to swipe and spend more time with the post. The results support that as a hypothesis, but they also suggest the format alone isn't enough.
+
+A few things stood out:
+
+- **Utility appears to matter more than simply using a carousel.** All three posts were educational carousels, but engagement ranged from 9.70% to 50.26%. Putting information into slides isn't enough on its own.
+
+- **Technical content isn't necessarily a barrier.** I initially wondered whether the HVNL post underperformed relative to the peak season checklist because the subject was more specialised. However, the dynamic optimisation carousel was also technical and produced the strongest engagement of the three. That challenged my original assumption.
+
+- **Actionability may be a stronger explanation.** The two strongest posts gave the audience something they could work through: questions to assess peak readiness and incremental steps towards dynamic optimisation. The value wasn't just information, but a practical way to think about a problem.
+
+- **High engagement doesn't necessarily mean high reach.** The dynamic optimisation post had the lowest impressions but the highest number of clicks and strongest CTR and engagement rate. This is an important distinction between distribution and content resonance.
+
+- **Audience relevance still matters.** A post doesn't necessarily need to appeal to the largest possible audience. Highly relevant content for a smaller group can generate much deeper engagement among the people it reaches.
+
+Overall, my working hypothesis shifted from **"carousels perform well"** towards **"useful, actionable content delivered through a swipeable format can create unusually deep engagement with the right audience."**
+
+## What I'd test next
+
+The next step would be to separate the effect of the format from the effect of the content itself.
+
+I'd test:
+
+- **Carousel vs. static:** Take a similar educational idea and test whether presenting it as a carousel produces deeper engagement than a single-image post.
+- **Actionable vs. informational:** Compare step-by-step frameworks and checklists against carousels that primarily explain a topic.
+- **Broad vs. specialist topics:** Continue testing whether narrower industry subjects can produce stronger engagement despite reaching fewer people.
+- **Hook strength:** Test different first-slide approaches to understand how much the opening question or statement influences people to continue swiping.
+- **Depth:** Compare shorter carousels against more detailed ones to see whether additional slides improve engagement or create drop-off.
+
+I'd also track reach separately from engagement. A post that reaches fewer people but generates much stronger interaction may be doing a different job from content designed primarily for awareness.
