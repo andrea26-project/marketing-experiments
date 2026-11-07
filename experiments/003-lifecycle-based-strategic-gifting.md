@@ -1,4 +1,3 @@
-
 # Experiment 003: Lifecycle-Based Strategic Gifting
 
 **Area:** Account-Based Marketing (ABM) & B2B Lifecycle Marketing  
@@ -80,3 +79,36 @@ This would help identify which gifting moments generate the strongest response a
 
 As the initiative has not yet launched, these metrics represent the proposed measurement framework rather than actual results.
 
+## Next Steps
+
+As the strategic gifting initiative develops, the next phase will focus on:
+
+### 1. Define Gifting Occasions
+
+Identify relevant moments across the acquisition, conversion and retention stages, such as prospect outreach, post-demo follow-up, customer onboarding and relationship milestones.
+
+### 2. Develop a Tiered Gifting Framework
+
+Explore how gift selection, value and personalisation could vary depending on the occasion, recipient segment and relationship objective.
+
+### 3. Design a Pilot
+
+Identify a suitable audience, establish a preliminary budget and determine how gifting activities could be tracked against the proposed success metrics.
+
+### 4. Evaluate and Document Learnings
+
+Once implemented, assess recipient engagement, commercial outcomes where measurable, and opportunities to refine the approach.
+
+## Results & Learnings
+
+**Status:** Pending implementation.
+
+This section will be updated once gifting activities have been executed and sufficient data is available to evaluate the hypothesis.
+
+Future analysis will consider:
+
+- Which gifting occasions generated the most meaningful engagement.
+- Whether gifting contributed to meetings booked or demo requests.
+- How recipients responded across different lifecycle stages.
+- Whether the outcomes justified the investment.
+- What could be improved or tested differently in future campaigns.
